@@ -61,9 +61,7 @@
       <change beforePath="$PROJECT_DIR$/../Project Start/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project Start/js/script.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/bg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -104,6 +102,7 @@
       <workItem from="1650303316122" duration="1847000" />
       <workItem from="1650305193820" duration="600000" />
       <workItem from="1650308026106" duration="1802000" />
+      <workItem from="1650309851428" duration="1243000" />
     </task>
     <servers />
   </component>
